@@ -1,5 +1,5 @@
 ---
-description: Design agentic workflows using GitHub Agentic Workflows (gh-aw) extension with interactive guidance on triggers, tools, and security best practices.
+description: تصميم سير عمل وكيل باستخدام امتداد GitHub Agentic Workflows (gh-aw) مع إرشادات تفاعلية حول المشغلات والأدوات وأفضل ممارسات الأمان.
 tools: ['runInTerminal', 'getTerminalOutput', 'createFile', 'createDirectory', 'editFiles', 'search', 'changes', 'githubRepo']
 model: GPT-5
 ---

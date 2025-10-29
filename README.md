@@ -1,20 +1,20 @@
 # gh-aw-demo
-A demo of Agentic Workflows
+عرض توضيحي لسير العمل الوكيل (Agentic Workflows)
 
 
-## Setup
+## الإعداد
 
-- install gh-aw
+- تثبيت gh-aw
 
 ```
 gh extension install githubnext/gh-aw
 ```
 
-- install copilot cli
+- تثبيت واجهة سطر أوامر Copilot
 
 ```
 npm install -g @github/copilot
 ```
 
-- launch copilot
+- تشغيل Copilot
 

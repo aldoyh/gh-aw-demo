@@ -1,5 +1,5 @@
 ---
-description: "A guided prompt to help you set up your agentic workflows using gh aw."
+description: "موجه إرشادي لمساعدتك في إعداد سير العمل الوكيل الخاص بك باستخدام gh aw."
 tools: ['runInTerminal', 'getTerminalOutput', 'createFile', 'createDirectory', 'editFiles', 'search', 'changes', 'githubRepo']
 model: GPT-5
 ---
