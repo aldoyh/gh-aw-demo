@@ -1,5 +1,5 @@
 ---
-description: Create shared agentic workflow components that wrap MCP servers using GitHub Agentic Workflows (gh-aw) with Docker best practices.
+description: إنشاء مكونات سير عمل وكيل مشتركة تغلف خوادم MCP باستخدام GitHub Agentic Workflows (gh-aw) مع أفضل ممارسات Docker.
 tools: ['runInTerminal', 'getTerminalOutput', 'createFile', 'createDirectory', 'editFiles', 'search', 'changes', 'githubRepo']
 model: GPT-5 mini (copilot)
 ---
